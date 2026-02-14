@@ -1,0 +1,1 @@
+// Placeholder test for controller/AuthControllerTest.java
