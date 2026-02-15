@@ -1,4 +1,4 @@
-# Week 9 Secure E-commerce Platform
+# Week 9 Secure E-commerce Platform:
 
 📊 Sample Output:
 🔐 SECURE E-COMMERCE PLATFORM
